@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IAs Generativas na Documentação Técnica 📘🤖
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido como parte do desafio **Lab Natty or Not** da DIO e apresenta um artigo sobre o uso de IAs Generativas na criação de documentação técnica em projetos de software.
+
+O foco do projeto é demonstrar como essas tecnologias podem apoiar a produção de documentação clara, padronizada e acessível, sem substituir a validação humana.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT (OpenAI)** – Geração e organização do conteúdo textual  
+- **Grammarly** – Revisão gramatical e clareza do texto  
+- **GitHub Copilot** – Referência conceitual para integração de IA no fluxo de desenvolvimento  
+- **Git e GitHub** – Versionamento e hospedagem do projeto  
+- **Markdown** – Documentação
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A IA Generativa foi utilizada para auxiliar na escrita inicial do artigo e na estruturação dos tópicos principais.
+
+Ferramentas de revisão foram consideradas para melhorar a clareza do texto, enquanto exemplos conceituais de uso de IA no desenvolvimento serviram de base para o conteúdo apresentado.
+
+Todo o processo foi documentado e versionado no GitHub.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um artigo objetivo que apresenta um caso realista de uso de IAs Generativas na documentação técnica, alinhado às necessidades do mercado de tecnologia.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+O desafio reforçou que a IA é uma ferramenta de apoio e não um substituto do conhecimento humano. A qualidade final da documentação depende da revisão crítica e do contexto fornecido pelo desenvolvedor.
